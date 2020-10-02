@@ -1,1 +1,41 @@
-empty
+All of the Among Us Mod (PlutoHax; DoggoBot) are linked here:
+
+----------------------------------------------------------
+
+Force Impostor / Force Crewmate / Force Ghost:
+- Changes your player state, makes you be a forced impostor or crewmate
+- Has been patched (client-sided). All of the kills will be registered after emergency meeting.
+
+Light Modifier:
+- Changes crewmate's light modifier. (super vision)
+
+WallHack (NoClip):
+- Makes you walk through walls (only host)
+
+Kill Distance:
+- Increases/decreases Impostor's kill reach (distance)
+
+Respawn Button (broken):
+- With 50% chance revives you if you are dead or got ejected.
+
+Emergency Meetings:
+- Increases/Decreases crewmates' emergency meeting count.
+
+Kill Cooldown:
+- Increases/Decreases Impostor's kill cooldown (min. 1)
+
+Voting time (completely broken):
+- Changes the emergency meeting time (rarely works)
+
+-----------------------------------------------------------
+
+"Teleportation Tab":
+- Teleports you at locations on the map.
+- Maps supported: The Skeld, MIRA HQ, Polus
+
+-----------------------------------------------------------
+
+Made by Pluto#6969 for Among Us 2020.9.9 ONLY.
+Do not distrubute
+
+-----------------------------------------------------------
