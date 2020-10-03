@@ -1,0 +1,41 @@
+Todos los Among Us Mod (PlutoHax; DoggoBot) están vinculados aquí:
+
+----------------------------------------------------------
+
+Fuerza Impostor / Fuerza Crewmate / Fuerza Fantasma:
+- Cambia tu estado de jugador, te hace ser un impostor forzado o compañero de equipo
+- Ha sido parcheado (del lado del cliente). Todas las muertes se registrarán después de la reunión de emergencia.
+
+Modificador de luz:
+- Cambia el modificador de luz del compañero de tripulación. (super visión)
+
+WallHack (NoClip):
+- Te hace caminar a través de las paredes (sólo anfitrión)
+
+Distancia de la matanza:
+- Aumenta / disminuye el alcance de la muerte del Impostor (distancia)
+
+Botón Respawn (roto):
+- Con un 50% de posibilidades de que te revive si estás muerto o te expulsaron.
+
+Reuniones de emergencia:
+- Aumenta / Disminuye el recuento de reuniones de emergencia de los compañeros de tripulación.
+
+Matar el tiempo de reutilización:
+- Aumenta / Disminuye el tiempo de reutilización de la muerte del Impostor (mín. 1)
+
+Tiempo de votación (completamente roto):
+- Cambia el tiempo de la reunión de emergencia (rara vez funciona)
+
+-----------------------------------------------------------
+
+"Pestaña de teletransportación":
+- Teletransporta en lugares en el mapa.
+- Mapas compatibles: El Skeld, MIRA HQ, Polus
+
+-----------------------------------------------------------
+
+Hecho por Pluto#6969 para Among Us 2020.9.9 SOLAMENTE.
+No distrubute
+
+-----------------------------------------------------------
